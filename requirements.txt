@@ -1,2 +1,2 @@
-flakwe8
+flake8
 mypy
